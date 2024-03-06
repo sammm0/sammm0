@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sam
+- 🌱 I’m currently learning HTML, CSS, and Javascript!
+- 📫 Connect with me on LinkedIn
+- 😄 Pronouns: he/him
